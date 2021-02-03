@@ -1,1 +1,1 @@
- There are no shortcuts to any place worth going
+ There are no shortcuts to any place worth going.

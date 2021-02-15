@@ -1,0 +1,1 @@
+Believe and act as if it were impossible to fail

@@ -1,0 +1,1 @@
+Success is where preparation and opportunity meet

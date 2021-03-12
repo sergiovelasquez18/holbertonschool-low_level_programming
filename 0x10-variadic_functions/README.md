@@ -1,0 +1,1 @@
+You cannot have negative mind and pretend that you'll be successful

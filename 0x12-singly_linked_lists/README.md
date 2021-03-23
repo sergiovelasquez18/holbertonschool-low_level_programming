@@ -1,1 +1,0 @@
-The power of imagination makes us infinite.

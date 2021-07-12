@@ -10,7 +10,7 @@ def island_perimeter(grid):
     edges = 0
 
     for i in range(hg):
-        for j in rangen(wd):
+        for j in range(wd):
             if grid[i][j] == 1:
                 island += 1
                 if (j > 0 and grid[i][j - 1] == 1):

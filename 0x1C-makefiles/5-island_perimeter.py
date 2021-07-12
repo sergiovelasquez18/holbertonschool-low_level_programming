@@ -22,5 +22,5 @@ def island_perimeter(grid):
                 if row == 0 or row == len(grid) - 1:
                     perimeter = perimeter + 1
                 if zone == 0 or zone == len(grid[row]) - 1:
-                    perimeter = perimeter
+                    perimeter = perimeter + 1
     return perimeter
